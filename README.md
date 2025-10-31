@@ -1,4 +1,4 @@
-# 🏥 MED.AI – Detecção de Fraudes em Planos de Saúde com Machine Learning
+# 🏥 MED.AI – Detecção de Fraudes Financeiras em Planos de Saúde com Machine Learning
 
 **Aluna:** Sarah Rodrigues Garcia  
 **Curso:** Ciências de Dados – EBAC  
